@@ -1,0 +1,15 @@
+.parent{
+  display: flex;
+  flex-direction: row;
+
+}
+.first{
+  width: 30%;
+  height: calc(100vh - 25px);
+  background-color: red;
+}
+.second{
+  width: 40%;
+  height: calc(100vh - 25px);
+  background-color: blue;
+}
